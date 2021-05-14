@@ -3,6 +3,9 @@
 This project was made following the tutorial from Vue School:
 https://vueschool.io/courses/the-vuejs-3-master-class
 
+## Tutorial exp.
+- 17. Using router-link to Navigate Between Page Components
+
 ## Forum mockup
 https://github.com/vueschool/forum-mockup
 
