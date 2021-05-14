@@ -3,6 +3,9 @@
 This project was made following the tutorial from Vue School:
 https://vueschool.io/courses/the-vuejs-3-master-class
 
+## Forum mockup
+https://github.com/vueschool/forum-mockup
+
 ## Data model
 ``` js
 data = {
