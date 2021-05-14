@@ -5,8 +5,12 @@
 
 <script>
 import sourceData from '@/data.json'
+import ThreadList from '@/components/ThreadList'
 
 export default {
+  components: {
+    ThreadList
+  },
   data () {
     return {
       threads: sourceData.threads,
